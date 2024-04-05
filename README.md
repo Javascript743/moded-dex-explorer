@@ -7,7 +7,7 @@ Project for better debugging.
 Simple. just copy and past into script executor
 
 ```
-   -- to do
+   loadstring(game:HttpGet('https://raw.githubusercontent.com/Javascript743/moded-dex-explorer/main/MDex'))
 ```
 
 ## Script executors
